@@ -4,7 +4,7 @@ const textConfig = {
   text3: "Cho bạn Minh Xin lỗi Nha ._.",
   text4: "Chọn Điiii Không Chọn Tui Đè Ra Thơm Á :v",
   text5: "Đ hem có xin lỗi gì hết á,
-  text6: "Tha á !! Yêu Lắm <3",
+  text6: "Tha điii !! Yêu Lắm <3",
   text7: "Có gì chửi gửi ở đây nè !! Tui Nghe :vvvv",
   text8: "Ò Nghe Rồi <3",
   text9: "Vì cậu đẹp try vlllll",
